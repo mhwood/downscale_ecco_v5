@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Annoying Mac file
+.DS_Store
+
 # C extensions
 *.so
 
