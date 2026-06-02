@@ -1,0 +1,12 @@
+# Packages
+ &PACKAGES
+ useCAL         = .TRUE.,
+ useEXF         = .TRUE.,
+ useDiagnostics = .TRUE.,
+ useDiagnostics_vec = .TRUE.,
+ useKPP         = .TRUE.,
+ useOBCS        = .TRUE.,
+ useSeaice      = .TRUE.,
+ useShelfice    = .TRUE.,
+ useIceplume    = .TRUE.,
+ &

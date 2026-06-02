@@ -1,0 +1,11 @@
+# ===================================
+# | Parameters for SHELFICE package |
+# ===================================
+ &SHELFICE_PARM01
+ SHELFICEboundaryLayer = .TRUE.,
+ SHELFICEtopoFile='shelfice/Greenland_shelfice_draft.bin',
+ SHELFICEloadAnomalyFile = 'shelfice/Greenland_shelfice_load.bin',
+ SHELFICEuseGammaFrict = .FALSE.,
+ no_slip_shelfice = .FALSE.,
+ SHELFICEwriteState = .FALSE.,
+ &
